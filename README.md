@@ -1,4 +1,4 @@
-![logo](https://github.com/Tonnydey/Tonnydey/blob/master/Github%20banner.JPG) 
+
 <h1 align="center">Hi 👋, I'm Tonny Dey</h1>
 <h3 align="center">A passionate SQA Engineer</h3>
 
